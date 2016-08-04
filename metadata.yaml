@@ -1,0 +1,65 @@
+_repo: Father-and-Son--A-Study-of-Two-Temperaments_2540
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund William, Sir
+    - Gosse, Edmund W. (Edmund William)
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+description: "Father and Son (1907) is a memoir by poet and critic Edmund Gosse, which\
+  \ he subtitled \"a study of two temperaments.\" Edmund had previously published\
+  \ a biography of his father, originally published anonymously. The book describes\
+  \ Edmund's early years in an exceptionally devout Plymouth Brethren home. His mother,\
+  \ who died early and painfully of breast cancer, was a writer of Christian tracts.\
+  \ His father, Philip Henry Gosse, was an influential, though largely self-taught,\
+  \ invertebrate zoologist and student of marine biology who, after his wife's death,\
+  \ took Edmund to live in Devon. The book focuses on the relationship between a sternly\
+  \ religious father who rejects the new evolutionary theories of his scientific colleague\
+  \ Charles Darwin and the son's gradual coming of age and rejection of his father's\
+  \ fundamentalist religion.\nAs Michael Newton, Lecturer in English, University College\
+  \ London, has written, the book is \"a brilliant, and often comic, record of the\
+  \ small diplomacies of home: those indirections, omissions, insincerities, and secrecies\
+  \ that underlie family relationships.\" \"[B]rilliantly written, and full of gentle\
+  \ wit,\" the book is \"an unmatched social document, preserving for us whole the\
+  \ experience of childhood in a Protestant sect in the Victorian period....Above\
+  \ all, it is one of our best accounts of adolescence, particularly for those who\
+  \ endured...a religious upbringing.\"\nAlthough Edmund Gosse prefaces the book with\
+  \ the claim that the incidents described are sober reality, a modern biography of\
+  \ Philip Henry Gosse by Ann Thwaite presents him not as a repressive tyrant who\
+  \ cruelly scrutinized the state of his son's soul but as a gentle and thoughtful\
+  \ person of \"delicacy and inner warmth,\" much unlike his son's portrait. Biographer\
+  \ and critic, D. J. Taylor described the latter as \"horribly partial\" and noted\
+  \ that \"the supposedly sequestered, melancholic pattern of [Edmund] Gosse's London\
+  \ and Devonshire childhood is repeatedly proved to have contained great affection,\
+  \ friends, fun and even light reading.\"\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2540'
+  wikidata: Q5437669
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gosse, Philip Henry, 1810-1888'
+- !lcsh 'Authors, English -- 19th century -- Family relationships'
+- !lcsh 'England -- Social life and customs -- 19th century'
+- !lcsh 'Apostasy'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcsh 'Gosse, Edmund, 1849-1928 -- Childhood and youth'
+- !lcc 'PR'
+- !lcsh 'Conflict of generations -- England'
+- !lcsh 'Zoologists -- Great Britain -- Biography'
+- !lcsh 'Fathers and sons -- England'
+- !lcsh 'Plymouth Brethren -- England -- Biography'
+- GITenberg
+title: 'Father and Son: A Study of Two Temperaments'
+url: http://www.gutenberg.org/ebooks/2540
+wikipedia:
+- https://en.wikipedia.org/wiki/Father_and_Son_(book)
