@@ -1,5 +1,8 @@
 _repo: Father-and-Son--A-Study-of-Two-Temperaments_2540
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gosse, Edmund
@@ -37,6 +40,8 @@ description: "Father and Son (1907) is a memoir by poet and critic Edmund Gosse,
   \ that \"the supposedly sequestered, melancholic pattern of [Edmund] Gosse's London\
   \ and Devonshire childhood is repeatedly proved to have contained great affection,\
   \ friends, fun and even light reading.\"\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2540#Father-and-Son--A-Study-of-Two-Temperaments
 gutenberg_issued: '2004-11-28'
 gutenberg_type: Text
 identifiers:
